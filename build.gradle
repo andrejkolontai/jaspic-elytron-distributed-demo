@@ -1,0 +1,16 @@
+plugins {
+    id 'war'
+}
+
+repositories {
+	jcenter()
+}
+
+
+dependencies {
+	providedCompile group: 'javax', name: 'javaee-api', version: '8.0.1'
+}
+
+war {
+	baseName 'jaspic'
+}
