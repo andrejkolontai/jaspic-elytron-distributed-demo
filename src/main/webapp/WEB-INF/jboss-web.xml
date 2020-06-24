@@ -4,5 +4,5 @@
              xsi:schemaLocation="http://www.jboss.com/xml/ns/javaee
                             http://www.jboss.org/j2ee/schema/jboss-app_6_0.xsd"
              version="6.0">
-     <security-domain>jaspitest</security-domain>
+     <security-domain>elytronjaspic</security-domain>
 </jboss-web>
